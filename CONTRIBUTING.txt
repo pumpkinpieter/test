@@ -1,3 +1,5 @@
 We don't want to stage this, I guess.  Oh wait we do and now we modified.
 
 I added this line in the master branch, but not in test branch.
+
+And now making a change in the issue branch.
