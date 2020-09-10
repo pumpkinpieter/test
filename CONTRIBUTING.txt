@@ -1,5 +1,5 @@
 We don't want to stage this, I guess.  Oh wait we do and now we modified.
 
-New line in hotfix.
+New line in master.  Also I'm still working on this in master, but not in hotfix.
 
 The lines added and altered in the master and issue branches were deleted, and replaced by this line. 
